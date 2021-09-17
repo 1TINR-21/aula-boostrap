@@ -1,0 +1,6 @@
+# Ignorar um arquivo especificio
+.vscode
+
+# Para ignorar uma pasta/Diretório
+/node_modules
+/pasta-ignorada
